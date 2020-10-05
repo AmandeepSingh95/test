@@ -1,4 +1,4 @@
-[submodule "libs"]
-  path = libs
-  url = https://github.com/AmandeepSingh95/hello-world1.git
-  branch = master
+[submodule "lop"]
+	path = lop
+	url = https://github.com/AmandeepSingh95/hello-world1.git
+	branch = master
